@@ -1,0 +1,16 @@
+[X] add heading styles
+[X] add img tag support
+[X] fix alignment
+[X] fix headings
+[X] organize layout
+[X] organize display
+[X] organize final1 by splitting
+[X] add browser styles
+[X] fix anon block error
+[X] add browser logo 
+[-] fix browser open
+[X] fix font size
+[X] skip head
+[X] fix margin,border,padding
+[X] add body and head tags
+[X] add style sheet linking

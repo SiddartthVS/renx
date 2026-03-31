@@ -1,0 +1,11 @@
+.bg {
+    background: lightblue;
+    color: darkred;
+    font-size: 30px;
+    font-face: Arial;
+    display: block;
+    width: 400px;
+    height: 100px;
+    margin: 20px;
+    padding: 10px;
+}
