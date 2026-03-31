@@ -14,3 +14,13 @@
 [X] fix margin,border,padding
 [X] add body and head tags
 [X] add style sheet linking
+[ ] re-construct comments for better understanding
+  [X]dom
+  [X]htmlparser
+  [X]cssparser
+  [X]layout
+  [ ]style
+  [ ]display
+  [ ]main
+[ ] organize project direstories properly
+[ ] make an executable
